@@ -1,0 +1,1288 @@
+<!DOCTYPE html>
+<html class="i-ua_js_no i-ua_css_standard" lang="ru">
+   <head>
+      <meta charset="utf-8">
+      <title>Яндекс.Новости: Главные новости сегодня, самые свежие и последние новости России онлайн</title>
+      <script nonce="Pmv7FaHFRlwGW5XCHQTPmA">;(function(d,e,c,r){e=d.documentElement;c="className";r="replace";e[c]=e[c][r]("i-ua_js_no","i-ua_js_yes");if(d.compatMode!="CSS1Compat")e[c]=e[c][r]("i-ua_css_standart","i-ua_css_quirks")})(document);window.Ya={news:true};;(function(d,e,c,n,w,v,f){e=d.documentElement;c="className";n="createElementNS";f="firstChild";w="http://www.w3.org/2000/svg";e[c]+=" i-ua_svg_"+(!!d[n]&&!!d[n](w,"svg").createSVGRect?"yes":"no");v=d.createElement("div");v.innerHTML="<svg/>";e[c]+=" i-ua_inlinesvg_"+((v[f]&&v[f].namespaceURI)==w?"yes":"no");})(document);;(function(d,e,p){e=d.documentElement;p="placeholder";e.className+=" i-ua_"+p+(p in d.createElement("input")?"_yes":"_no")})(document);;document.documentElement.className+=" i-ua_orient_"+(window.innerWidth>window.innerHeight?"landscape":"portrait");;(function(w,e,s,c,x,l,p,d){c="className";x="deviceXDPI";l="logicalXDPI";p="devicePixelRatio";d=x in s&&l in s&&s[x]/s[l]||p in w&&w[p];d>1&&(e[c]+=" i-ua_retina_yes")})(window,document.documentElement,screen);</script>
+      <meta name="robots" content="all">
+      <meta name="viewport" content="width=device-width">
+      <link rel="icon" sizes="24x24" href="//yastatic.net/iconostasis/_/prhtvM6ZQhGQGHe542dSagE8x3w.png" type="image/png">
+      <link rel="icon" sizes="32х32" href="//yastatic.net/iconostasis/_/XZPUSeAtcF5UT1QgbcCHu_-j_bM.png" type="image/png">
+      <link rel="icon" sizes="64x64" href="//yastatic.net/iconostasis/_/oHUY7dN_K2tYhEREfEM5rBqgXTQ.png" type="image/png">
+      <link rel="icon" sizes="96x96" href="//yastatic.net/iconostasis/_/HUqPppdVM0avylR0Q5K7RkoQKPY.png" type="image/png">
+      <link rel="apple-touch-icon-precomposed" sizes="152x152" href="//yastatic.net/iconostasis/_/ve1RSqUiv1R27kS6HbznpU_CuRs.png" type="image/png">
+      <meta name="msapplication-square70x70logo" content="//yastatic.net/iconostasis/_/721oZp08D8qr3HsuYW8JAhofhJk.png">
+      <meta name="msapplication-square150x150logo" content="//yastatic.net/iconostasis/_/XvtZLWuqlCW8kCIMJULAn6taHXk.png">
+      <meta name="msapplication-wide310x150logo" content="//yastatic.net/iconostasis/_/0IdRN3FDmtuzDzpUBUaQvATEeWk.png">
+      <meta name="msapplication-square310x310logo" content="//yastatic.net/iconostasis/_/_94L9sq9oH3q6WDK4wlizDZ_uCY.png">
+      <meta name="msapplication-TileImage" content="//yastatic.net/iconostasis/_/p7OwrhdWiGztb0n0nfgXimJzW0Y.png">
+      <link rel="shortcut icon" href="/favicon.ico">
+      <link rel="canonical" href="https://news.yandex.ru/">
+      <link rel="alternate" href="https://m.news.yandex.ru/">
+      <meta name="referrer" content="origin">
+      <meta name="title" content="Яндекс.Новости: Главные новости сегодня, самые свежие и последние новости России онлайн">
+      <meta name="description" content="Последние новости в Яндекс.Новостях: Актуальные новости России, регионов и областей, важные и свежие новости дня.">
+      <meta property="og:site_name" content="Яндекс.Новости">
+      <meta property="og:url" content="https://m.news.yandex.ru/">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Яндекс.Новости: Главные новости сегодня, самые свежие и последние новости России онлайн">
+      <meta property="og:updated_time" content="1553698524">
+      <meta property="og:description" content="Последние новости в Яндекс.Новостях: Актуальные новости России, регионов и областей, важные и свежие новости дня.">
+      <meta property="og:image" content="https://yastatic.net/iconostasis/_/nS9G734lQ3F9syXDyxt0X7dauVs.png">
+      <meta property="og:image:secure_url" content="https://yastatic.net/iconostasis/_/nS9G734lQ3F9syXDyxt0X7dauVs.png">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:type" content="image/png">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Яндекс.Новости: Главные новости сегодня, самые свежие и последние новости России онлайн">
+      <meta name="twitter:description" content="Последние новости в Яндекс.Новостях: Актуальные новости России, регионов и областей, важные и свежие новости дня.">
+      <meta name="twitter:image" content="https://yastatic.net/iconostasis/_/nS9G734lQ3F9syXDyxt0X7dauVs.png">
+      <script src="https://an.yandex.ru/system/context.js" data-rcid="804" type="text/javascript" async></script>
+      <link rel="stylesheet" href="//yastatic.net/s3/nerpa-static/_/d0ei0-dLtz13kEa_wpuUixoNN9w.css">
+      <style nonce="Pmv7FaHFRlwGW5XCHQTPmA">.story__citation .citation{margin:14px 0 2px}.story__video .video-stack{margin-top:15px;margin-bottom:18px}.story__video .video-stack__container{height:317px}.story__video .video-stack__item{width:563px;height:317px}.widget__close{position:absolute;top:0;right:0;width:10px;height:10px;cursor:pointer;-webkit-transition:.2s opacity ease;transition:.2s opacity ease;opacity:.5;background:url(//yastatic.net/s3/nerpa-static/_/A7domBBjG0exhXMPOrSWZpLHYCY.svg) no-repeat;background-size:contain}.widget__close:hover{opacity:1}.widget__content{position:relative;display:block}.widget__content svg,.widget__title{display:inline-block;vertical-align:middle}.widget__content svg{width:64px;height:64px}.widget__title{padding-left:13px;white-space:pre-wrap;color:#222;font-size:16px;font-weight:500;line-height:20px}.yaplus{vertical-align:middle;padding-top:2px;margin-left:28px}.search2_opened{width:460px}.search2_opened .search2__text{width:253px}</style>
+      <script nonce="Pmv7FaHFRlwGW5XCHQTPmA">window.Ya=window.Ya||{};!function(i,t){if(i.Ya=i.Ya||{},Ya.Rum)throw new Error("Rum: interface is already defined");var n=i.performance,e=n&&n.timing&&n.timing.navigationStart||Ya.startPageLoad||+new Date,s=i.requestAnimationFrame;Ya.Rum={enabled:!!n,vsStart:document.visibilityState,vsChanged:!1,_defTimes:[],_defRes:[],_deltaMarks:{},_settings:{},_vars:{},init:function(i,t){this._settings=i,this._vars=t},getTime:n&&n.now?function(){return n.now()}:Date.now?function(){return Date.now()-e}:function(){return new Date-e},time:function(i){this._deltaMarks[i]=[this.getTime()]},timeEnd:function(i){var t=this._deltaMarks[i];t&&0!==t.length&&t.push(this.getTime())},sendTimeMark:function(i,t,n,e){void 0===t&&(t=this.getTime()),this._defTimes.push([i,t,e]),this.mark(i,t)},sendResTiming:function(i,t){this._defRes.push([i,t])},sendRaf:function(i){if(s&&!this.isVisibilityChanged()){var t=this,n="2616."+i;s(function(){t.isVisibilityChanged()||(t.sendTimeMark(n+".205"),s(function(){t.isVisibilityChanged()||t.sendTimeMark(n+".1928")}))})}},isVisibilityChanged:function(){return this.vsStart&&("visible"!==this.vsStart||this.vsChanged)},mark:n&&n.mark?function(i,t){n.mark(i+(t?": "+t:""))}:function(){}},document.addEventListener&&document.addEventListener("visibilitychange",function i(){Ya.Rum.vsChanged=!0,document.removeEventListener("visibilitychange",i)})}(window);
+         !function(){"use strict";Ya.Rum.observeDOMNode=window.IntersectionObserver?function(e,i,n){var t=this;!function s(){if(!t.isVisibilityChanged()){var o="string"==typeof i?document.querySelector(i):i;o?new IntersectionObserver(function(i,n){t.isVisibilityChanged()||(Ya.Rum.sendTimeMark(e),n.unobserve(o))},n).observe(o):setTimeout(s,100)}}()}:function(){}}();
+         !function(){"use strict";if(window.PerformanceLongTaskTiming){var e=Ya.Rum._tti={events:[],observer:new PerformanceObserver(function(n){e.events=e.events.concat(n.getEntries()),e.events.length>100&&e.events.shift()})};e.observer.observe({entryTypes:["longtask"]})}}();
+         !function(){"use strict";var t,e=[];function n(){var n=Ya.Rum.getSetting("clck"),a=e.join("\r\n");if(e=[],t=null,n&&!(navigator.sendBeacon&&Ya.Rum.getSetting("beacon")&&navigator.sendBeacon(n,a))){var i=new XMLHttpRequest;i.open("POST",n),i.send(a)}}Ya.Rum.send=function(a,i,o,u,r,s,c){clearTimeout(t);var g=function(t,e,n,a,i,o){var u=Ya.Rum.getSetting("slots");return[o?"/"+o.join("/"):"","/path="+e,u?"/slots="+u.join(";"):"",n?"/vars="+n:"","/cts="+(new Date).getTime(),"/*"]}(0,i,o,0,0,c);e.push("/reqid="+Ya.Rum.getSetting("reqid")+g.join("")),e.length<42?t=setTimeout(n,15):n()}}();
+         !function(n){if(!n.Ya||!Ya.Rum)throw new Error("Rum: interface is not defined");var t=Ya.Rum;t.getSetting=function(n){var e=t._settings[n];return null===e?null:e||""}}(window);
+         !function(e){var r={client:["690.2354",-1,100,0],uncaught:["690.2361",100,10,0],external:["690.2854",100,10,0],script:["690.2609",100,10,0]};e.ERROR_LEVEL={INFO:"info",DEBUG:"debug",WARN:"warn",ERROR:"error",FATAL:"fatal"},e._errorSettings={clck:"https://yandex.ru/clck/click",beacon:!0,project:"unknown",page:"",env:"",experiments:[],additional:{},platform:"",region:"",level:"",version:"",preventError:!1,unhandledRejection:!1,debug:!1,limits:{},silent:{},filters:{}};var n=!1;function t(e,r){for(var n in r)r.hasOwnProperty(n)&&(e[n]=r[n]);return e}function o(e){return"boolean"==typeof e&&(e=+e),"number"==typeof e?e+"":null}e.initErrors=function(r){t(e._errorSettings,r),n||(window.addEventListener?(window.addEventListener("error",i),"Promise"in window&&e._errorSettings.unhandledRejection&&window.addEventListener("unhandledrejection",function(e){var r,n=e.reason;if(n){if(n.stack&&n.message)r=n.message;else if("[object Event]"===(r=String(n)))r="event.type: "+n.type;else if("[object Object]"===r)try{r=JSON.stringify(n)}catch(e){r="unknown object"}i({message:"Unhandled rejection: "+r,stack:n.stack})}})):window.onerror=function(e,r,n,t,o){i({error:o||new Error(e||"Empty error"),message:e,lineno:n,colno:t,filename:r})},n=!0)},e.updateErrors=function(r){t(e._errorSettings,r)},e._handleError=function(n,o){var i,a,l=e._errorSettings;l.preventError&&n.preventDefault&&n.preventDefault(),o?(i=n,a="client"):a=(i=e._normalizeError(n,l)).type;var s=r[a][1];"number"==typeof l.limits[a]&&(s=l.limits[a]);var c=r[a][2];"number"==typeof l.silent[a]&&(c=l.silent[a]);var u=r[a][3];if(u<s||-1===s){i.path=r[a][0];var d="";try{var m=t({},l.additional);d=JSON.stringify(t(m,n.additional))}catch(e){l.debug&&window.console&&console.error("[error-counter] json.stringify:",e)}e._sendError(i,{additional:d,silent:u<c||-1===c?"no":"yes",isCustom:Boolean(o)}),r[a][3]++}},e._normalizeError=function(r){var n,t=(r=r||{}).filename||r.fileName||"",o=r.error&&r.error.stack||r.stack||"",i=r.message,a="uncaught",l="",s="";return/^Script error\.?$/.test(i)?a="script":(n=e._isExternalError(t,i,o)).hasExternal&&(a="external",l=n.common,s=n.custom),{file:t,line:r.lineno||r.lineNumber,col:r.colno||r.colNumber,stack:o,message:i,external:l,externalCustom:s,type:a}},e._sendError=function(r,n){n=n||{};var t=e._errorSettings,i=t.experiments.length?t.experiments.join(";"):"",a={"-url":r.file,"-line":r.line,"-col":r.col,"-stack":r.stack,"-env":t.env,"-msg":r.message,"-external":r.external,"-externalCustom":r.externalCustom,"-project":t.project,"-service":r.service,"-page":r.page||t.page,"-platform":t.platform,"-level":r.level,"-experiments":i,"-version":t.version,"-region":t.region,"-source":r.source,"-type":n.isCustom?r.type:"","-block":r.block,"-additional":n.additional,"-adb":o(Ya.blocker)||o(t.blocker),"-ua":navigator.userAgent,"-silent":n.silent,"-ts":+new Date};t.debug&&window.console&&console.error("[error-counter]",a),e.send(null,r.path,function(e){var r=[];for(var n in e)e.hasOwnProperty(n)&&(e[n]||0===e[n])&&r.push(n+"="+encodeURIComponent(e[n]));return r.join(",")}(a),null,null,null,null)};var i=function(e){Ya.Rum._handleError(e,!1)}}(Ya.Rum);
+         !function(e){var r={url:{0:/(miscellaneous|extension)_bindings/,1:/^chrome:/,2:/kaspersky-labs\.com\//,3:/^(?:moz|chrome)-extension:\/\//,4:/^file:/,5:/^resource:\/\//,6:/webnetc\.top/,7:/local\.adguard\.com/},message:{0:/__adgRemoveDirect/,1:/Content Security Policy/,2:/vid_mate_check/,3:/ucapi/,4:/Access is denied/i,5:/^Uncaught SecurityError/i,6:/__ybro/,7:/__show__deepen/,8:/ntp is not defined/,9:/Cannot set property 'install' of undefined/,10:/NS_ERROR/,11:/Error loading script/,12:/TypeError: undefined is not a function/},stack:{0:/(?:moz|chrome)-extension:\/\//}};function n(e,r){if(e&&r){var n=[];for(var o in r)r.hasOwnProperty(o)&&r[o].test(e)&&n.push(o);return n.join("_")}}function o(e,o){var t,i=[];for(var s in r)r.hasOwnProperty(s)&&(t=n(e[s],o[s]))&&i.push(s+"~"+t);return i.join(";")}e._isExternalError=function(n,t,i){var s=e._errorSettings.filters||{},a={url:(n||"")+"",message:(t||"")+"",stack:(i||"")+""},c=o(a,r),u=o(a,s);return{common:c,custom:u,hasExternal:!(!c&&!u)}}}(Ya.Rum);
+         Ya.Rum.init({beacon:true,clck:'//yandex.ru/clck/click',slots:['127721,0,3;133350,0,98;116190,0,39'],reqid:'1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC'}, {287:213,143:'28.3.629.2048',2923:0});Ya.Rum.observeDOMNode(2876, '.page-content');Ya.Rum.initErrors({"project":"news","env":"production","page":"rubrics","blocker":false,"platform":"desktop","region":213,"version":"0xf541286af","limits":{"client":100,"uncaught":100,"script":0,"external":100},"debug":false});;(function(commonCounter){function t(t){if("mousedown"!==t.type||3===t.which||2===t.button)for(var e=t.target||t.srcElement;e;){var n=e.getAttribute&&e.getAttribute("data-counter");if(n){try{Ya.c(JSON.parse(n),e)}catch(t){}break}e=e.parentNode}}function e(t,a){if(t){var c=function(t,a){var r="/path="+t[0],c=t[1]?"/vars="+t[1]:"";return e.commonCounter+r+c+"/rnd="+((new Date).getTime()+Math.round(100*Math.random()))+"/*"+(/^(http|\/\/)/.test(a)?a:n+"//"+o+(/^\//.test(a)?a:"/"+a))}(t,a&&a.href||location.href);(function(t){return r&&navigator.sendBeacon(t," ")})(c)||function(t){var e=document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0],n=document.createElement("script");n.setAttribute("crossorigin","anonymous"),n.setAttribute("src",t),e.insertBefore(n,e.firstChild)}(c)}}var n=location.protocol,o=location.host,a=!document.addEventListener,r="function"==typeof window.navigator.sendBeacon;window.Ya=window.Ya||{},Ya.c=e,Ya.c.commonCounter=commonCounter,a?(document.attachEvent("onclick",t),document.attachEvent("onmousedown",t)):(document.addEventListener("click",t),document.addEventListener("mousedown",t));}('//yandex.ru/clck/jclck/dtype=stred/pid=14/reg=213/u=6067763191553699194/ruip=5.8.16.236/ids=/slots=127721,0,3;133350,0,98;116190,0,39/ver=14832/reqid=1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC/cid=1'));window.yandex_metrika_callbacks=[function(){window['yaCounter722818']=new Ya.Metrika({"id":722818,"trackHache":true,"trackLinks":true,"accurateTrackBounce":true,"userParams":null,"experiments":"pPNPTE2-3BgBAcKz_K46MQNiHWjN8CCsGGfgRwlAiR5elhPRMHuZEQ,,","params":{"yandexuid":"6067763191553699194","testids":[],"b":0,"isYandex":0,"no_banner":0,"statId":1,"d":1}})}]
+      </script><script src="//mc.yandex.ru/metrika/watch.js" data-rcid="1218" type="text/javascript" async></script>
+   </head>
+   <body class="b-page b-page_touch_no b-page_name_index b-page_type_rubric b-page_lang_ru b-page_view_normal detect-scripts proffit-manager b-page__body i-global i-ua i-ua i-ua_interaction_yes detect-scripts proffit-manager i-bem" data-bem='{"b-page":{"reqid":"1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC","cl4url":"","catnews":"","geonews":""},"detect-scripts":{"from":"YxNews","yandexuid":"6067763191553699194","tld":"ru","reqid":"1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC"},"proffit-manager":{"isTests":false,"banners":{"main":207,"alt":208,"top":498,"first":205,"more":111,"footer":206},"order":["main","top","first","more","footer"],"nonce":"Pmv7FaHFRlwGW5XCHQTPmA","statId":1,"extParams":"&amp;reqid=1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC"},"i-global":{"lang":"ru","tld":"ru","content-region":"ru","click-host":"//yandex.ru/clck","passport-host":"https://passport.yandex.ru","pass-host":"https://pass.yandex.ru","social-host":"//social.yandex.ru","export-host":"https://export.yandex.ru","lego-static-host":"https://yastatic.net/lego/2.10-142","id":"news","host":"news.yandex.ru","sid":"9","reqid":"1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC","isAuth":false,"isTouch":false,"isSport":false,"yandexuid":"6067763191553699194","sk":"yd9bb7d82f8954ff496607d0f67bfce13","nonce":"Pmv7FaHFRlwGW5XCHQTPmA","pageCounterPath":"28.3.268","commonCounter":"//yandex.ru/clck/jclck/dtype=stred/pid=14/reg=213/u=6067763191553699194/ruip=5.8.16.236/ids=/slots=127721,0,3;133350,0,98;116190,0,39/ver=14832/reqid=1553699194999838-444894153530677631900024-[2a02:6b8:c01:82a:0:604:5e97:db08]-NEWS_RUBRIC/cid=1","metrika":722818,"lr":213,"country":225,"user-region":"ru","retpath":"https://news.yandex.ru/","yad":"background","yadomain":"yandex.ru","passport-msg":"news","from":"index","urlParams":{}},"i-ua":{}}'>
+      <div class="rubber rubber_header">
+         <div class="rubber__fixed">
+            <div class="header2 i-bem" data-bem='{"header2":{"counters":{"add":["799.1084.2806.160",null],"exit":["799.1084.2806.445",null],"settings":["799.1084.2806.1137",null],"enter":["799.1084.2806.2568",null]}}}' role="banner">
+               <div class="header2__main">
+                  <div class="header2__logo header2__logo_size_m"><a class="logo logo_type_link logo_name_ys-ru-68x26" href="https://yandex.ru" title="ЯНДЕКС" tabindex="-1" data-counter="[&quot;175.179.606&quot;,null]">Яндекс</a><a class="logo logo_type_link logo_name_news-ru-77x26" href="/" title="Новости" data-counter="[&quot;175.179.3&quot;,null]">Яндекс</a></div>
+                  <div class="header2__left"></div>
+                  <div class="header2__right">
+                     <form class="search2 search2_at_header suggest2-form suggest2-form__node suggest2-counter i-bem" data-bem='{"search2":{"cl4url":"","counters":{"search":["175.153.440",null],"clear":["175.153.477",null]}},"suggest2-form":{"popupName":"popup2"},"suggest2-counter":{"service":"news_ru_desktop","submitBySelect":true,"params":{"dtype":"stred","pid":0,"cid":2873}}}' role="search" action="/yandsearch">
+                        <div class="suggest2-form__node">
+                           <span class="input input_search-input input_type_normal input_size_m input_autofocus_yes input_theme_normal suggest2-form__input search2__text i-bem" data-bem='{"input":{"live":false}}'><span class="icon icon_loupe"></span><label class="input__hint input__hint_visibility_visible" id="hintuniq1553698052892310" for="uniq1553698052892310" aria-hidden="true">Поиск</label><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq1553698052892310" name="text" placeholder="Поиск" aria-labelledby="labeluniq1553698052892310 hintuniq1553698052892310" tabindex="1" type="search" autocomplete="off" maxlength="400" value=""></span></span><button class="button2 button2_theme_normal button2_size_m button2_type_submit button2_view_classic suggest2-form__button search2__search i-bem" data-bem='{"button2":{}}' type="submit" autocomplete="off" tabindex="0"><span class="icon icon_loupe"></span></button>
+                           <div class="popup2 popup2_autoclosable_yes popup2_target_anchor popup2_theme_clear popup2_hiding_yes popup2_view_classic suggest2 suggest2_theme_normal suggest2_size_m suggest2_group_label suggest2_type_simple suggest2_search-input suggest2_adaptive_yes search2__popup suggest2-detect i-bem" data-bem='{"popup2":{},"suggest2":{"url":"//suggest.yandex.ru/suggest-news-ru","submitBySelect":true,"data":{"srv":"news_ru_desktop","uil":"ru","v":4,"n":10,"allowNavNews":1,"portal":1,"hl":1,"html":1,"fact":1,"icon":1,"wiz":"TrWth"},"label":"Новости"},"suggest2-detect":{}}'>
+                              <div class="popup2__content"></div>
+                           </div>
+                           <input name="rpt" type="hidden" value="nnews2"><input name="grhow" type="hidden" value="clutop">
+                        </div>
+                     </form>
+                     <span class="header2__gap"></span>
+                     <div class="yaplus yaplus_available_yes i-bem" data-bem='{"yaplus":{}}' data-counter="[&quot;175.1412.10&quot;,null]"><a class="link link_theme_normal yaplus__link i-bem" data-bem='{"link":{}}' rel="noopener" target="_blank" tabindex="0" href="https://plus.yandex.ru?from=header_news&amp;utm_campaign=plus&amp;utm_medium=header_newsutm_source=yandex&amp;source=header_news"><span class="link__inner">Будьте в Плюсе</span><span class="yaplus__badge-main"></span></a></div>
+                     <span class="header2__gap"></span><a class="header2__action header2__action_type_settings" data-bem='{"header2__action":{"notice":true,"panel":"settings"}}' tabindex="0" title="Настройки" aria-label="Настройки" href="#settings" data-counter="[&quot;175.1137&quot;,null]"></a><span class="header2__gap"></span>
+                     <div class="user2 i-bem" data-bem='{"user2":{"mailCallerId":"news","_retpath":"https://news.yandex.ru/","_yu":"6067763191553699194","_passportHost":"https://passport.yandex.ru","accountsUrl":"https://pass.yandex.ru/accounts"}}'><a class="button2 button2_size_m button2_theme_pseudo button2_type_link button2_view_classic user2__enter i-bem" data-bem='{"button2":{}}' title="Войти" tabindex="-1" href="https://passport.yandex.ru/auth?retpath=https%3A%2F%2Fnews.yandex.ru%2F&amp;origin=news_welcome1"><span class="icon icon_size_m button2__icon button2__icon_side_left user2__enter-icon"></span><span class="button2__text">Войти</span></a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="rubber rubber_nav">
+         <div class="rubber__fixed">
+            <div class="nav-by-rubrics nav-by-rubrics_main i-bem" data-bem='{"nav-by-rubrics":{}}' role="navigation" aria-label="Рубрики">
+               <ul class="tabs-menu tabs-menu_theme_nav-dark tabs-menu_main tabs-menu_size_x tabs-menu_layout_horiz tabs-menu_parent_nav-by-rubrics tabs-menu_nav i-bem" data-bem='{"tabs-menu":{}}' role="menu">
+                  <li class="nav-by-rubrics__other nav-by-rubrics__other_empty_yes nav-by-rubrics__other_fix-position_yes tabs-menu__tab">
+                     <div class="dropdown-menu dropdown-menu_theme_ffffff dropdown-menu_size_m nav-by-rubrics__other-body i-bem" data-bem='{"dropdown-menu":{}}'>
+                        <div class="nav-by-rubrics__switcher link link_theme_dark dropdown-menu__switcher" role="button" aria-label="ещё ">Ещё</div>
+                        <div class="popup popup_theme_ffffff popup_autoclosable_yes popup_adaptive_yes popup_animate_yes dropdown__popup dropdown-menu__popup dropdown-menu__popup_size_m i-bem" data-bem='{"popup":{"directions":{"to":"bottom","axis":"right","offset":{"right":-12,"top":-12}}}}'>
+                           <div class="popup__under"></div>
+                           <i class="popup__tail"></i>
+                           <div class="popup__content">
+                              <div class="b-menu-vert dropdown-menu__menu dropdown-menu__menu_theme_ffffff" role="menu">
+                                 <ul class="b-menu-vert__layout"></ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="nav-by-rubrics__other-gap" aria-hidden>Ещё</div>
+                  </li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_0 tabs-menu__tab_alias_index tabs-menu__tab_active_yes nav-by-rubrics__rubric" data-name="Главное"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/index.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=index,84=85&quot;]">Главное</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_1 tabs-menu__tab_alias_Moscow nav-by-rubrics__rubric nav-by-rubrics__rubric_region_yes" data-name="Москва"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/Moscow/index.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=Moscow,84=86&quot;]">Москва</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_2 tabs-menu__tab_alias_personal-feed nav-by-rubrics__rubric" data-name="Рекомендуем"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/personal_feed.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=personal_feed,84=87&quot;]">Рекомендуем</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_3 tabs-menu__tab_alias_politics nav-by-rubrics__rubric" data-name="Политика"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/politics.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=politics,84=88&quot;]">Политика</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_4 tabs-menu__tab_alias_society nav-by-rubrics__rubric" data-name="Общество"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/society.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=society,84=89&quot;]">Общество</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_5 tabs-menu__tab_alias_business nav-by-rubrics__rubric" data-name="Экономика"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/business.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=business,84=90&quot;]">Экономика</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_6 tabs-menu__tab_alias_world nav-by-rubrics__rubric" data-name="В мире"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/world.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=world,84=91&quot;]">В мире</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_7 tabs-menu__tab_alias_sport nav-by-rubrics__rubric" data-name="Спорт"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/sport.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=sport,84=92&quot;]">Спорт</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_8 tabs-menu__tab_alias_incident nav-by-rubrics__rubric" data-name="Происшествия"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/incident.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=incident,84=93&quot;]">Происшествия</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_9 tabs-menu__tab_alias_culture nav-by-rubrics__rubric" data-name="Культура"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/culture.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=culture,84=94&quot;]">Культура</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_10 tabs-menu__tab_alias_computers nav-by-rubrics__rubric" data-name="Технологии"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/computers.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=computers,84=95&quot;]">Технологии</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_11 tabs-menu__tab_alias_science nav-by-rubrics__rubric" data-name="Наука"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/science.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=science,84=96&quot;]">Наука</a></li>
+                  <li class="tabs-menu__tab tabs-menu__tab_pos_12 tabs-menu__tab_alias_auto nav-by-rubrics__rubric" data-name="Авто"><a class="link link_theme_dark i-bem" data-bem='{"link":{}}' tabindex="0" href="/auto.html?from=index" data-counter="[&quot;816.16.76&quot;,&quot;-name=auto,84=97&quot;]">Авто</a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="rubber rubber_content">
+         <div class="rubber__col rubber__col_left">
+            <div class="page-content" role="main" aria-live="polite">
+               <div class="page-content__cell">
+                  <div class="page-content__fixed">
+                     <div class="stories-set stories-set_main_yes stories-set_pos_0" role="list" aria-label="Главное">
+                        <div class="stories-set__main-item">
+                           <div class="story story_view_main">
+                              <div class="story__image" role="presentation">
+                                 <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1849083/542ed4f1ba1c53ce40eeb8bdd6f082c1/428x230" alt="" width="428" height="230" style="background-color:#666463"></div>
+                              </div>
+                              <div class="story__aside">
+                                 <div class="story__content">
+                                    <div class="story__topic">
+                                       <a class="link link_theme_normal rubric-label rubric-label_top_incident i-bem" data-bem='{"link":{}}' tabindex="0" href="/incident.html" data-counter="[&quot;321.77.1104.3253&quot;,&quot;-alias=incident,84=85&quot;]">
+                                          <div class="rubric-label__dot"></div>
+                                          Происшествия
+                                       </a>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Advokaty_predlozhili_za_Abyzova_zalog_v_razmere_1_mlrd_rublej--557de74f091ea3015a72a5fd58912e32?lr=213&amp;lang=ru&amp;stid=2Ql0NtcjeqADx-wNzF7u&amp;rubric=index&amp;from=index" data-counter="[&quot;321.77.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L3Byb2lzc2hlc3R2aXlhLzYyNjU1MDg,-src=aHR0cHM6Ly9zMC5yYmsucnUvdjZfdG9wX3BpY3MvcmVzaXplZC82MDB4SC9tZWRpYS9pbWcvMC80MS83NTU1MzY5MzI3Nzc0MTAuanBn,-view=main,-alias=index,-parentPos=0,84=85,1917=1100&quot;]">Адвокаты предложили за Абызова залог в размере 1 млрд рублей</a></h2>
+                                       <div class="story__text">Адвокаты предложили за экс-министра Открытого правительства Абызова залог в размере 1 млрд рублей.</div>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:54
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact">
+                                    <div class="story__topic">
+                                       <a class="link link_theme_normal rubric-label rubric-label_top_politics i-bem" data-bem='{"link":{}}' tabindex="0" href="/politics.html" data-counter="[&quot;321.77.1104.3253&quot;,&quot;-alias=politics,84=86&quot;]">
+                                          <div class="rubric-label__dot"></div>
+                                          Политика
+                                       </a>
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1782061/1d9a3e38a82179f3d733b57f37ffb9f9/256x140" alt="" width="256" height="140" style="background-color:#8B8E80"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Doch_ehks-ministra_oborony_SSSR_YAzova_ocenila_prigovor_litovskogo_suda--36e02edb756436626fc158647f19f07c?lr=213&amp;lang=ru&amp;stid=6GJHH-xfUoLmWjH5OFGb&amp;rubric=index&amp;from=index" data-counter="[&quot;321.77.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9ydXNzaWFuLnJ0LmNvbS91c3NyL25ld3MvNjE1ODQ3LWRvY2gtZWtzLW1pbmlzdHItb2Jvcm9ueS1zc3NyLXlhem92,-src=aHR0cHM6Ly9zdGF0aWMzLjF0di5ydS91cGxvYWRzL3Bob3RvL2ltYWdlLzYvcHJlbWlkZGxlLzUxNDQ3Nl9wcmVtaWRkbGVfYzkzNWY3NDAxOC5qcGc,-view=compact,-alias=index,-parentPos=0,84=86,1917=1100&quot;]">Дочь экс-министра обороны СССР Язова оценила приговор литовского суда</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:50
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact">
+                                    <div class="story__topic">
+                                       <a class="link link_theme_normal rubric-label rubric-label_top_auto i-bem" data-bem='{"link":{}}' tabindex="0" href="/auto.html" data-counter="[&quot;321.77.1104.3253&quot;,&quot;-alias=auto,84=87&quot;]">
+                                          <div class="rubric-label__dot"></div>
+                                          Авто
+                                       </a>
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/61140/5309930b8a38c458f812708c45ea7859/256x140" alt="" width="256" height="140" style="background-color:#8A644A"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Ford_uvedet_legkovye_avtomobili_iz_Rossii--720ba92e4802fcd87a5666e3b69bec20?lr=213&amp;lang=ru&amp;stid=UQOZYYNzavChviyFS9Kc&amp;rubric=index&amp;from=index" data-counter="[&quot;321.77.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cudmVkb21vc3RpLnJ1L2F1dG8vYXJ0aWNsZXMvMjAxOS8wMy8yNy83OTc0NTYtZm9yZC11dmVkZXQtbGVna292aWUtYXZ0b21vYmlsaQ,-src=aHR0cHM6Ly93d3cucG5wLnJ1L3VwbG9hZC9lbnRpdGllcy8yMDE5LzAzLzI3L2FydGljbGUvZGV0YWlsUGljdHVyZS9mYi9jZi9hYi9iYS9hYTNkMGM1YWY4ZmQ1MjkzZDYxNzE5N2VlMGUyNGM3My5qcGc,-view=compact,-alias=index,-parentPos=0,84=87,1917=1100&quot;]">Ford уведет легковые автомобили из России</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:49
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short">
+                                    <div class="story__topic">
+                                       <a class="link link_theme_normal rubric-label rubric-label_top_society i-bem" data-bem='{"link":{}}' tabindex="0" href="/society.html" data-counter="[&quot;321.77.1104.3253&quot;,&quot;-alias=society,84=88&quot;]">
+                                          <div class="rubric-label__dot"></div>
+                                          Общество
+                                       </a>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Posmeyavshikhsya_nad_zarplatami_sotrudnic_roddoma_vynudili_uvolitsya--ca291640dca2a3a15e9012bf3e1fd059?lr=213&amp;lang=ru&amp;stid=WKdEhGaS-b7q64Fxw6W8&amp;rubric=index&amp;from=index" data-counter="[&quot;321.77.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9sZW50YS5ydS9uZXdzLzIwMTkvMDMvMjcvcm9kZGRvbS8,-view=short,-alias=index,-parentPos=0,84=88,1917=1671&quot;]">Посмеявшихся над зарплатами сотрудниц роддома вынудили уволиться</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:46
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short">
+                                    <div class="story__topic">
+                                       <a class="link link_theme_normal rubric-label rubric-label_top_politics i-bem" data-bem='{"link":{}}' tabindex="0" href="/army.html" data-counter="[&quot;321.77.1104.3253&quot;,&quot;-alias=army,84=89&quot;]">
+                                          <div class="rubric-label__dot"></div>
+                                          Армия и оружие
+                                       </a>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Voennyj_prokuror_Ukrainy_obeshhaet_VSU_konfiskovannye_rossijskie_rakety--991f9cf94a6b46d5b153d1f7c8f927a7?lr=213&amp;lang=ru&amp;stid=OmXIP0SxXnnmibSaBVfZ&amp;rubric=index&amp;from=index" data-counter="[&quot;321.77.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yZWdudW0ucnUvbmV3cy8yNTk5OTI3Lmh0bWw,-view=short,-alias=index,-parentPos=0,84=89,1917=1671&quot;]">Военный прокурор Украины обещает ВСУ конфискованные российские ракеты</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:38
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="proffit-wrap">
+                  <div class="sticky proffit__container i-bem" data-bem='{"sticky":{"stickyContainerClass":".rubber__col_right","minWidthStartSticky":1235}}'>
+                     <div class="proffit proffit_sticky_yes proffit_name_main proffit_hideneded" role="complementary" aria-label="Реклама"></div>
+                     <div class="proffit proffit_name_alt" role="complementary" aria-label="Реклама"></div>
+                  </div>
+               </div>
+               <div class="page-content__cell page-content__cell_top-proffit">
+                  <div class="page-content__fixed page-content__fixed_top-proffit">
+                     <div class="proffit proffit_name_top proffit_hideneded" role="complementary" aria-label="Реклама"></div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_1" role="list" aria-labelledby="Moscow">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_region i-bem" data-bem='{"link":{}}' tabindex="0" href="/Moscow/index.html" data-counter="[&quot;321.287.1104.3253&quot;,&quot;-alias=Moscow,84=86&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Москва
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1916803/911e588e2bb847948ec6c8f6adef239a/256x140" alt="" width="256" height="140" style="background-color:#5D5D4E"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Kakim_stanet_Severnyj_rechnoj_vokzal_posle_restavracii--6e4e5ee43c16bab33f97cb4a2c52a619?lr=213&amp;lang=ru&amp;stid=yCL4Z4w1K7BC_RZjJpus&amp;rubric=Moscow&amp;from=index" data-counter="[&quot;321.287.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cubW9zLnJ1L25ld3MvaXRlbS81MzAzODA3My8,-src=aHR0cHM6Ly93d3cubW9zLnJ1L3VwbG9hZC9uZXdzZmVlZC9uZXdzZmVlZC9BZ0RzbWs3QkJhb0YuanBn,-view=compact,-alias=Moscow,-parentPos=1,84=85,1917=1100&quot;]">Каким станет Северный речной вокзал после реставрации</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:20
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Novyj_format_raboty_vrach_k_pacientu_vveden_v_bolnice_imeni_Filatova--42bc349fc3d9af511fd6ce92f1cfc574?lr=213&amp;lang=ru&amp;stid=WJ5vF6DpYSEMoW2t7s0B&amp;rubric=Moscow&amp;from=index" data-counter="[&quot;321.287.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yZy5ydS8yMDE5LzAzLzI3L3JlZy1jZm8vbm92eWotZm9ybWF0LXJhYm90eS12cmFjaC1rLXBhY2llbnR1LXZ2ZWRlbi12LWJvbG5pY2UtaW1lbmktZmlsYXRvdmEuaHRtbA,-view=short,-alias=Moscow,-parentPos=1,84=86,1917=1671&quot;]">Новый формат работы «врач к пациенту» введен в больнице имени Филатова</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          13:06
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Voditelyam_v_Moskve_zapretyat_v_vykhodnye_ezdit_po_vydelennym_polosam--cc4d7669ee3f0b8a1bd202a9a06e5f3f?lr=213&amp;lang=ru&amp;stid=J8vuqJbBkz1Hh-q9vtq4&amp;rubric=Moscow&amp;from=index" data-counter="[&quot;321.287.1104&quot;,&quot;-cl4url=aHR0cDovL3N2cHJlc3NhLnJ1L2F1dG8vbmV3cy8yMjg0MTkvP3Jzcz0x,-view=short,-alias=Moscow,-parentPos=1,84=87,1917=1671&quot;]">Водителям в Москве запретят в выходные ездить по выделенным полосам</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:32
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Moshhnaya_volna_tepla_pridet_v_Moskvu_k_koncu_nedeli--15e7a61d7d1a1ea41a992eadbf31f00f?lr=213&amp;lang=ru&amp;stid=p9fFtsD_4FBJKM0ga-Sd&amp;rubric=Moscow&amp;from=index" data-counter="[&quot;321.287.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yaWFtby5ydS9hcnRpY2xlLzM0ODE1Ni9tb3NjaG5heWEtdm9sbmEtdGVwbGEtcHJpZGV0LXYtbW9za3Z1LWsta29udHN1LW5lZGVsaS54bA,-view=short,-alias=Moscow,-parentPos=1,84=88,1917=1671&quot;]">Мощная волна тепла придет в Москву к концу недели</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          09:14
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Vesna_prishla_v_Moskvu_na_10_dnej_ranshe_sroka--96bbb3515159bbc72704ad6d637b45ed?lr=213&amp;lang=ru&amp;stid=fkt1FxdHh5YmFG25fDae&amp;rubric=Moscow&amp;from=index" data-counter="[&quot;321.287.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yaWFmYW4ucnUvcmVnaW9uL21zay8xMTY0Mzg4LXZlc25hLXByaXNobGEtdi1tb3NrdnUtbmEtMTAtZG5laS1yYW5zaGUtc3Jva2E,-view=short,-alias=Moscow,-parentPos=1,84=89,1917=1671&quot;]">Весна пришла в Москву на 10 дней раньше срока</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          16:15
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_2" role="list" aria-labelledby="personal_feed">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_personal_feed i-bem" data-bem='{"link":{}}' tabindex="0" href="/personal_feed.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=personal_feed,84=87&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Рекомендуем
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/60982/78230e82b6a25ae2f170888b07a0345a/256x140" alt="" width="256" height="140" style="background-color:#9E9E9E"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Krymu_vystavyat_na_prodazhu_byvshuyu_gosdachu_Brezhneva_za_1_mlrd_rublej--b43a181362c07eb31e4de43fa81fb84f?lr=213&amp;lang=ru&amp;stid=X-Sa6GxaDJ1tDYS9DKHG&amp;rubric=personal_feed&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L2Vrb25vbWlrYS82MjY0Mzg3,-src=aHR0cHM6Ly9zMC5yYmsucnUvdjZfdG9wX3BpY3MvbWVkaWEvaW1nLzcvMzIvNzU1NTM2ODg1NjA2MzI3LmpwZw,-view=compact,-alias=personal_feed,-parentPos=2,84=85,1917=1100&quot;]">В Крыму выставят на продажу бывшую госдачу Брежнева за 1 млрд рублей</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:36
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/EHksperty_ne_ozhidayut_snizheniya_stavok_po_ipoteke_v_ehtom_godu--6b9e23d072700de8f40b08e029a83b9e?lr=213&amp;lang=ru&amp;stid=vsXoxl1UAAMRPgo3vHUd&amp;rubric=personal_feed&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cudmVzdGkucnUvZG9jLmh0bWw%2FaWQ9MzEzMDg3Mw,-view=short,-alias=personal_feed,-parentPos=2,84=86,1917=1671&quot;]">Эксперты не ожидают снижения ставок по ипотеке в этом году</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:49
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/EHks-glava_AO_Rosnano_Melamed_prishel_v_sud_podderzhat_Abyzova--2ffcd1e6ce653c10c07b753e32ed2b68?lr=213&amp;lang=ru&amp;stid=m-qzsjD3c1OyHBIJ&amp;rubric=personal_feed&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L3Byb2lzc2hlc3R2aXlhLzYyNjUwMTc,-view=short,-alias=personal_feed,-parentPos=2,84=87,1917=1671&quot;]">Экс-глава АО «Роснано» Меламед пришел в суд поддержать Абызова</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:37
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Frolov_rasskazhet_ob_iskakh_k_Nachalovoj_na_milliony_v_Pust_govoryat--6e8bbd49651735c711477c508e6c553a?lr=213&amp;lang=ru&amp;stid=nH5na18K5cNNch5NGDmh&amp;rubric=personal_feed&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuZ2F6ZXRhLnJ1L2N1bHR1cmUvbmV3cy8yMDE5LzAzLzI3L25fMTI3OTc1NzAuc2h0bWw,-view=short,-alias=personal_feed,-parentPos=2,84=88,1917=1671&quot;]">Фролов расскажет об исках к Началовой на миллионы в «Пусть говорят»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:41
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Gruzii_pastukha_osudili_pozhiznenno_za_ubijstvo_amerikanskoj_semi--319d72fb361cb05d3ab2c1a3061b3477?lr=213&amp;lang=ru&amp;stid=XoNa8G6EXTb5pa3MFwbB&amp;rubric=personal_feed&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cDovL3d3dy5haWYucnUvc29jaWV0eS9sYXcvdl9ncnV6aWlfcGFzdHVoYV9vc3VkaWxpX3Bvemhpem5lbm5vX3phX3ViaXlzdHZvX2FtZXJpa2Fuc2tveV9zZW1p,-view=short,-alias=personal_feed,-parentPos=2,84=89,1917=1671&quot;]">В Грузии пастуха осудили пожизненно за убийство американской семьи</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:28
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_3" role="list" aria-labelledby="politics">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_politics i-bem" data-bem='{"link":{}}' tabindex="0" href="/politics.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=politics,84=88&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Политика
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1778708/6795f3ea7c809e96b78dda0c4d1405b3/256x140" alt="" width="256" height="140" style="background-color:#9EA29D"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Rossiya_bezvozmezdno_dast_Kirgizii_$30_mln--4c4c1698b8cce96e5deb5e160485a753?lr=213&amp;lang=ru&amp;stid=dR6dYLi-JHwOkJDPg_fJ&amp;rubric=politics&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuaW50ZXJmYXgucnUvcnVzc2lhLzY1NTk1Nw,-src=aHR0cDovL3J1c3BsdC5ydS9uZXRjYXRfZmlsZXMvMjAvMzAvNjAweDM5NC9reXJneXpzdGFuLmpwZw,-view=compact,-alias=politics,-parentPos=3,84=85,1917=1100&quot;]">Россия безвозмездно даст Киргизии $30 млн</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:49
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Putin_poruchil_sozdat_novuyu_strategiyu_po_razvitiyu_fizkultury_i_sporta--5e5cc5301e3e0ace41796860f832f772?lr=213&amp;lang=ru&amp;stid=PzeNHECw_jc7fS-jEcQi&amp;rubric=politics&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cua29tbWVyc2FudC5ydS9kb2MvMzkyNDc3Mg,-view=short,-alias=politics,-parentPos=3,84=86,1917=1671&quot;]">Путин поручил создать новую стратегию по развитию физкультуры и спорта</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:46
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Sovbez_OON_naznachil_datu_ehkstrennogo_zasedaniya_po_Golanskim_vysotam--a9db533dffdd04d6aef9feaa907922b8?lr=213&amp;lang=ru&amp;stid=90Lmf-zm0QjuBSkpH3JR&amp;rubric=politics&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9pei5ydS84NjEyODUvMjAxOS0wMy0yNy9zb3ZiZXotb29uLW5hem5hY2hpbC1kYXR1LWVrc3RyZW5ub2dvLXphc2VkYW5paWEtcG8tZ29sYW5za2ltLXZ5c290YW0,-view=short,-alias=politics,-parentPos=3,84=87,1917=1671&quot;]">Совбез ООН назначил дату экстренного заседания по Голанским высотам</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:46
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Stalo_izvestno_kogda_Dvorkovich_vernetsya_v_Rossiyu--aa0510593ebef36f763d5f9cdb19b3c1?lr=213&amp;lang=ru&amp;stid=uYyCcQcMw0GW8pOVfqO5&amp;rubric=politics&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuZ2F6ZXRhLnJ1L2J1c2luZXNzL25ld3MvMjAxOS8wMy8yNy9uXzEyNzk3NjM2LnNodG1s,-view=short,-alias=politics,-parentPos=3,84=88,1917=1671&quot;]">Стало известно, когда Дворкович вернется в Россию</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:38
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/KPRF_reshila_peredat_mandat_deputata_Gosdumy_biznesmenu_Berulave--daabcbf075917ff32c78543043d13ffd?lr=213&amp;lang=ru&amp;stid=a7U6d_qofOrS0_SVAv-y&amp;rubric=politics&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cucmJjLnJ1L3BvbGl0aWNzLzI3LzAzLzIwMTkvNWM5YjdkM2U5YTc5NDczYWRmOGMwNDli,-view=short,-alias=politics,-parentPos=3,84=89,1917=1671&quot;]">КПРФ решила передать мандат депутата Госдумы бизнесмену Берулаве</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:44
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle-proffit">
+                     <div class="proffit proffit_name_first proffit_hideneded" role="complementary" aria-label="Реклама"></div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_4" role="list" aria-labelledby="society">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_society i-bem" data-bem='{"link":{}}' tabindex="0" href="/society.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=society,84=89&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Общество
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1883901/580477a9364b8681465a873ae13b3817/256x140" alt="" width="256" height="140" style="background-color:#757371"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Stroitelstvo_zavoda_po_rozlivu_vody_v_Kultuke_sud_priznal_nezakonnym--c05e9f3c70f776066fd1fd4f7cf23676?lr=213&amp;lang=ru&amp;stid=YUeN7TWP0O4nFmFqDrX8&amp;rubric=society&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yZWdudW0ucnUvbmV3cy8yNTk5NzM2Lmh0bWw,-src=aHR0cHM6Ly9pbmZvMjQucnUvd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvVEFTU18zMTkzMzQyMy5qcGc,-view=compact,-alias=society,-parentPos=4,84=85,1917=1100&quot;]">Строительство завода по розливу воды в Култуке суд признал незаконным</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:33
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Rossii_mogut_prodlit_rabochij_den_zhitelnicam_selskoj_mestnosti--d4929dd3fd0159a9f3aca40835e2d3a4?lr=213&amp;lang=ru&amp;stid=CrcXoWViX4wD2uELfAs8&amp;rubric=society&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yaWEucnUvMjAxOTAzMjcvMTU1MjE0NDYwMi5odG1s,-view=short,-alias=society,-parentPos=4,84=86,1917=1671&quot;]">В России могут продлить рабочий день жительницам сельской местности</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:14
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Pedagog_iz_Barnaula_nauchit_kolleg_vesti_socseti--551cb3dbc754f59a47eacc1c10a343ca?lr=213&amp;lang=ru&amp;stid=ZGtRevx8XiHiywiYNJjD&amp;rubric=society&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuZ2F6ZXRhLnJ1L2xpZmVzdHlsZS9zdHlsZS8yMDE5LzAzL2FfMTIyNjgyNTYuc2h0bWw,-view=short,-alias=society,-parentPos=4,84=87,1917=1671&quot;]">Педагог из Барнаула научит коллег вести соцсети</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:34
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/SHnurov_pozhalovalsya_v_prokuraturu_na_prodyusera_Laskovogo_maya--905b1c3c317b2a3de8a5e4af9ccfc71e?lr=213&amp;lang=ru&amp;stid=DomQur2-f1H1oeZPy0uC&amp;rubric=society&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9pei5ydS84NjA4OTMvMjAxOS0wMy0yNy9zaG51cm92LXBvemhhbG92YWxzaWEtdi1wcm9rdXJhdHVydS1uYS1wcm9kaXVzZXJhLWxhc2tvdm9nby1tYWlh,-view=short,-alias=society,-parentPos=4,84=88,1917=1671&quot;]">Шнуров пожаловался в прокуратуру на продюсера «Ласкового мая»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          16:44
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Avstraliec_sluchajno_dvazhdy_vyigral_v_lotereyu_po_16_millionov_dollarov--8c35d11876b4b13e4d89cf1d20509b27?lr=213&amp;lang=ru&amp;stid=o08h24wbyj5FtnwQPIXO&amp;rubric=society&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yaWEucnUvMjAxOTAzMjcvMTU1MjE2MTg5OC5odG1s,-view=short,-alias=society,-parentPos=4,84=89,1917=1671&quot;]">Австралиец случайно дважды выиграл в лотерею по 16 миллионов долларов</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:32
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_5" role="list" aria-labelledby="business">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_business i-bem" data-bem='{"link":{}}' tabindex="0" href="/business.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=business,84=90&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Экономика
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/54588/0a69c0a4b1166b488dfc69bb8a23ac0b/256x140" alt="" width="256" height="140" style="background-color:#3A392F"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Minfin_razmestil_OFZ_na_359_mlrd_rublej--b1b17175845707bd29b73538908bb7f0?lr=213&amp;lang=ru&amp;stid=md15pwUfV4Cin0Yl85Uo&amp;rubric=business&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L2Vrb25vbWlrYS82MjY1MTcy,-src=aHR0cHM6Ly9tZWRpYS5uYWthbnVuZS5ydS9pbWFnZXMvcGljdHVyZXMvaW1hZ2VfYmlnXzEwMjc3MS5qcGc,-view=compact,-alias=business,-parentPos=5,84=85,1917=1100&quot;]">Минфин разместил ОФЗ на 35,9 млрд рублей</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:35
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Benzin_v_Rossii_v_fevrale_podeshevel_na_02--7a7edd4c7ab6796799d72297f6338069?lr=213&amp;lang=ru&amp;stid=xgQ91inWvogst-mLrrFR&amp;rubric=business&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L2Vrb25vbWlrYS82MjY0ODk2,-view=short,-alias=business,-parentPos=5,84=86,1917=1671&quot;]">Бензин в России в феврале подешевел на 0,2%</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:34
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Cifrovoj_profil_protestiruyut_16_rossijskikh_bankov_iz_top-30--d3d01dff1041739630a778ba960fe39b?lr=213&amp;lang=ru&amp;stid=VGO-9Wf8_NonbQrGh5BA&amp;rubric=business&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L25hY2lvbmFsbnllLXByb2VrdHkvNjI2MzkyMQ,-view=short,-alias=business,-parentPos=5,84=87,1917=1671&quot;]">«Цифровой профиль» протестируют 16 российских банков из топ-30</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:26
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Vladimir_Potanin_khochet_snizit_dividendy_Nornikelya--3ee6a5999c6e3678052aef8467f52e45?lr=213&amp;lang=ru&amp;stid=pG67vSJSq7b3ABPh3oul&amp;rubric=business&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cua29tbWVyc2FudC5ydS9kb2MvMzkyNDcyOA,-view=short,-alias=business,-parentPos=5,84=88,1917=1671&quot;]">Владимир Потанин хочет снизить дивиденды «Норникеля»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:07
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Mordashov_zainteresovalsya_pokupkoj_doli_v_seti_gipermarketov_Lenta--43549f24f2ac4fbaba844ccb90350b51?lr=213&amp;lang=ru&amp;stid=bPBbVfVCciSQwpg1xlen&amp;rubric=business&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cudmVkb21vc3RpLnJ1L2J1c2luZXNzL2FydGljbGVzLzIwMTkvMDMvMjcvNzk3NDg3LWFsZWtzZWktbW9yZGFzaG92,-view=short,-alias=business,-parentPos=5,84=89,1917=1671&quot;]">Мордашов заинтересовался покупкой доли в сети гипермаркетов «Лента»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          14:41
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_6" role="list" aria-labelledby="world">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_world i-bem" data-bem='{"link":{}}' tabindex="0" href="/world.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=world,84=91&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           В мире
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1871264/4b4556933fd254ea66d55ba6ccb59f37/256x140" alt="" width="256" height="140" style="background-color:#5F6366"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Britanskoe_pravitelstvo_otverglo_peticiyu_ob_otmene_Brexit--e7798a737052c5dd7d13798c720b9416?lr=213&amp;lang=ru&amp;stid=D6gCKrVmm6V1TRAtZSjr&amp;rubric=world&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9sdC5zcHV0bmlrbmV3cy5ydS93b3JsZC8yMDE5MDMyNy84NjQ1MzI2L0JyaXRhbnNrb2UtcHJhdml0ZWxzdHZvLW90dmVyZ2xvLXBldGl0c2l5dS1vYi1vdG1lbmUtQnJleGl0Lmh0bWw,-src=aHR0cDovL3N0YXRpYy5yaWFmYW4ucnUvdXBsb2Fkcy8yMDE5LzAzLzI3L29yaWctMTU1MzY0NjE2NjNkNTkzNGQ0YjkwOTFmZjU4NzRhYWU1ZTdmZjBmZGY3LmpwZWc,-view=compact,-alias=world,-parentPos=6,84=85,1917=1100&quot;]">Британское правительство отвергло петицию об отмене Brexit</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:00
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Pri_vzryve_v_Stokgolme_postradali_neskolko_chelovek--f8735132992852377bdba7f3eb8eca68?lr=213&amp;lang=ru&amp;stid=5sDdqTDohsZGssaLWDm7&amp;rubric=world&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cucmJjLnJ1L3JiY2ZyZWVuZXdzLzVjOWIyNDVkOWE3OTQ3MTVmNDQzNTIwNQ,-view=short,-alias=world,-parentPos=6,84=86,1917=1671&quot;]">При взрыве в Стокгольме пострадали несколько человек</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          15:55
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Germanii_iz-za_utechki_ammiaka_v_ledovom_dvorce_postradali_60_chelovek--b72b9ca5d20adaf6b55270090757e267?lr=213&amp;lang=ru&amp;stid=Qu0QpWuTMpipbm24vHxn&amp;rubric=world&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cucmJjLnJ1L3JiY2ZyZWVuZXdzLzVjOWI1ZWUxOWE3OTQ3MmRjMDcxMzE4YQ,-view=short,-alias=world,-parentPos=6,84=87,1917=1671&quot;]">В Германии из-за утечки аммиака в ледовом дворце пострадали 60 человек</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:38
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_SSHA_umer_Master_Joda_Pentagona_EHndi_Marshall--a35782897361e5482a77e57ac718bb1a?lr=213&amp;lang=ru&amp;stid=mnQfSLenvr1ZxE8AIVOI&amp;rubric=world&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9pbmZvcmVhY3Rvci5ydS8yMjExODEtdi1zc2hhLXVtZXItbWFzdGVyLWlvZGEtcGVudGFnb25hLWVuZGktbWFyc2hhbGw,-view=short,-alias=world,-parentPos=6,84=88,1917=1671&quot;]">В США умер «Мастер Йода» Пентагона Энди Маршалл</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          15:56
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/SSHA_potratyat_polmilliarda_dollarov_na_smenu_vlasti_v_Venesuehle--fd22cb0f948e4e3a616e76945c912f95?lr=213&amp;lang=ru&amp;stid=wV-aupvusYGX45v_&amp;rubric=world&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yZy5ydS8yMDE5LzAzLzI3L3NzaGEtcG90cmF0aWF0LXBvbG1pbGxpYXJkYS1kb2xsYXJvdi1uYS1zbWVudS12bGFzdGktdi12ZW5lc3VlbGUuaHRtbA,-view=short,-alias=world,-parentPos=6,84=89,1917=1671&quot;]">США потратят полмиллиарда долларов на смену власти в Венесуэле</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:39
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_7" role="list" aria-labelledby="sport">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_sport i-bem" data-bem='{"link":{}}' tabindex="0" href="/sport.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=sport,84=92&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Спорт
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1780398/d4cf8dd210d62fc28ae375f10585dcaf/256x140" alt="" width="256" height="140" style="background-color:#454545"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/KKHL_ne_isklyuchila_ni_odin_klub_iz_chisla_uchastnikov_ligi--d2e600f41abb1c82f9317ab17f4f2c25?lr=213&amp;lang=ru&amp;stid=Qj0CRzbGVZlfqY9QlfgW&amp;rubric=sport&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9zcG9ydDI0LnJ1L25ld3MvaG9ja2V5LzIwMTktMDMtMjcta2tobC1uZS1pc2tseXVjaGlsYS1uaS1vZGluLWtsdWItaXotY2hpc2xhLXVjaGFzdG5pa292LWxpZ2k,-src=aHR0cHM6Ly9zNW8ucnUvc3RvcmFnZS9zaW1wbGUvcnUvZWR0LzM1L2FjLzQ3LzM4L3J1ZWY4NTc0ZGI0YTEuanBn,-view=compact,-alias=sport,-parentPos=7,84=85,1917=1100&quot;]">КХЛ не исключила ни один клуб из числа участников лиги</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:31
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Ignatev_oproverg_podpisanie_novogo_kontrakta_s_Krasnodarom--409a2baf099aa5d98915b66c44617371?lr=213&amp;lang=ru&amp;stid=OCGpysY_rC0yjXaabeRn&amp;rubric=sport&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9ydXNzaWFuLnJ0LmNvbS9zcG9ydC9uZXdzLzYxNTgzMy1pZ25hdGV2LWtyYXNub2Rhci1vcHJvdmVyemhlbmll,-view=short,-alias=sport,-parentPos=7,84=86,1917=1671&quot;]">Игнатьев опроверг подписание нового контракта с «Краснодаром»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:27
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Bajer_potrebuet_100_mln_evro_u_Bavarii_za_KHaverca--d205c45557b614a472ed83f13e7d3ba8?lr=213&amp;lang=ru&amp;stid=jBgx81hYr62OBdnuDlcg&amp;rubric=sport&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuc3BvcnRzZGFpbHkucnUvbmV3cy9iYWplci1wb3RyZWJ1ZXQtMTAwLW1sbi1ldnJvLXUtYmF2YXJpaS16YS14YXZlcmN6YQ,-view=short,-alias=sport,-parentPos=7,84=87,1917=1671&quot;]">«Байер» потребует 100 млн евро у «Баварии» за Хаверца</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:45
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Perevertajlo_voshel_v_shtab_Ufy--e25738dd5d6cd292748252f645cb1969?lr=213&amp;lang=ru&amp;stid=8ZjKpmuRqn6ZRGdo&amp;rubric=sport&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9tYXRjaHR2LnJ1L2Zvb3RiYWxsL21hdGNodHZuZXdzX05JOTk1ODkzX1BlcmV2ZXJ0YWpsb192b3NoZWxfdl9zaHRhYl9VZnk,-view=short,-alias=sport,-parentPos=7,84=88,1917=1671&quot;]">Перевертайло вошел в штаб «Уфы»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          14:45
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Skonchalsya_vyzhivshij_v_krushenii_samoleta_s_klubom_SHapekoehnse_zhurnalist--ea69f89df172513d47c6c95cb89657bf?lr=213&amp;lang=ru&amp;stid=MiC7e6LYe9ZZk5WmPk1M&amp;rubric=sport&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuZ2F6ZXRhLnJ1L3Nwb3J0L25ld3MvMjAxOS8wMy8yNy9uXzEyNzk2ODUwLnNodG1s,-view=short,-alias=sport,-parentPos=7,84=89,1917=1671&quot;]">Скончался выживший в крушении самолета с клубом «Шапекоэнсе» журналист</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:34
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_8" role="list" aria-labelledby="incident">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_incident i-bem" data-bem='{"link":{}}' tabindex="0" href="/incident.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=incident,84=93&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Происшествия
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/29301/b172fcd10a923a6d146711553cdecf7a/256x140" alt="" width="256" height="140" style="background-color:#807766"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_ofis_moskovskogo_YAbloka_nagryanula_policiya--ab5aa85dd5f9598767c2dafa681d2e2c?lr=213&amp;lang=ru&amp;stid=p0ThA92ThlbjHGSPk_v-&amp;rubric=incident&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9sZW50YS5ydS9uZXdzLzIwMTkvMDMvMjcvc2VhcmNoLw,-src=aHR0cHM6Ly93d3cucmlkdXMucnUvaW1hZ2VzLzIwMTkvMy8yNy84OTg4OTYvbGFyZ2VfMl8yMDgxNzgyNjZhLmpwZw,-view=compact,-alias=incident,-parentPos=8,84=85,1917=1100&quot;]">В офис московского «Яблока» нагрянула полиция</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:49
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Krasnodare_iz-za_pozhara_v_TC_ehvakuirovali_bolee_600_chelovek--302617b8840700c1fa61fd4caeb398d0?lr=213&amp;lang=ru&amp;stid=eHPFcxgA_vnH9YgpeAaq&amp;rubric=incident&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yZy5ydS8yMDE5LzAzLzI3L3JlZy11Zm8vdi1rcmFzbm9kYXJlLXBvemhhci12LXRjLWV2YWt1aXJvdmFsaS02MDAtY2hlbG92ZWsuaHRtbA,-view=short,-alias=incident,-parentPos=8,84=86,1917=1671&quot;]">В Краснодаре из-за пожара в ТЦ эвакуировали более 600 человек</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:40
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Sud_arestoval_gendirektora_kompanii__postavshhika_kompyuterov_dlya_MVD--fcc9c5d05ada03d4ae5d591a222c6d60?lr=213&amp;lang=ru&amp;stid=CJwNMc9YkoD1ybxpr6Y9&amp;rubric=incident&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cudmVkb21vc3RpLnJ1L3BvbGl0aWNzL25ld3MvMjAxOS8wMy8yNy83OTc1MDYtc3VkLWdlbmRpcmVrdG9yYS1rb21wYW5paS1wb3N0YXZzY2hpa2E,-view=short,-alias=incident,-parentPos=8,84=87,1917=1671&quot;]">Суд арестовал гендиректора компании – поставщика компьютеров для МВД</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:30
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_YUgre_grejder_zasypal_snegom_rebenka--bf6be94c80f770405f74f3db4bf7fe61?lr=213&amp;lang=ru&amp;stid=sGDoev_tOHBtEPZ7dFSm&amp;rubric=incident&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yaWEucnUvMjAxOTAzMjcvMTU1MjE1NzQ0Ni5odG1s,-view=short,-alias=incident,-parentPos=8,84=88,1917=1671&quot;]">В Югре грейдер засыпал снегом ребенка</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:46
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Izbivshikh_DJ_Smash_nakazhut_na_11_millionov--4b3b25127ba8f9a577f02b89b39877c0?lr=213&amp;lang=ru&amp;stid=ATrVr9LhJKLaxMPa2kso&amp;rubric=incident&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuZ2F6ZXRhLnJ1L2N1bHR1cmUvbmV3cy8yMDE5LzAzLzI3L25fMTI3OTcwNjYuc2h0bWw,-view=short,-alias=incident,-parentPos=8,84=89,1917=1671&quot;]">Избивших DJ Smash накажут на 11 миллионов</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:32
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_9" role="list" aria-labelledby="culture">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_culture i-bem" data-bem='{"link":{}}' tabindex="0" href="/culture.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=culture,84=94&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Культура
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/29940/b1767e47f3069a56bc394ec756de5b25/256x140" alt="" width="256" height="140" style="background-color:#6D6860"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Lungin_nazval_mrakobesiem_zapret_na_pokaz_filma_Bratstvo--3f428f7680b43419edccff6a5566d753?lr=213&amp;lang=ru&amp;stid=ehifj-sPbQ4AOYaUeNr8&amp;rubric=culture&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cua29tbWVyc2FudC5ydS9kb2MvMzkyNDgyNg,-src=aHR0cDovL3d3dy5yZXdpem9yLnJ1L2ZpbGVzLzE0MzgxMmtjMWIuanBn,-view=compact,-alias=culture,-parentPos=9,84=85,1917=1100&quot;]">Лунгин назвал мракобесием запрет на показ фильма «Братство»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:46
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Mehr_Belgoroda_prinyal_prisyagu_pod_muzyku_iz_Zvezdnykh_vojn--9ecb9ac5e1f81acd209fe788a644a5d8?lr=213&amp;lang=ru&amp;stid=LmwTvIXUlcoHmfh_ABnP&amp;rubric=culture&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly92ei5ydS9uZXdzLzIwMTkvMy8yNy85NzAyNTcuaHRtbA,-view=short,-alias=culture,-parentPos=9,84=86,1917=1671&quot;]">Мэр Белгорода принял присягу под музыку из «Звездных войн»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:45
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Medinskij_obedinil_Aleksandrinskij_i_Volkovskij_teatry--6660ccc672a8161094e5ad5cacd02e36?lr=213&amp;lang=ru&amp;stid=rBjoul2Dtj0uT9Et8uwF&amp;rubric=culture&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cucmJjLnJ1L3NwYl9zei8yNy8wMy8yMDE5LzVjOWI1YTgxOWE3OTQ3MmJmZTJhMmZhYQ,-view=short,-alias=culture,-parentPos=9,84=87,1917=1671&quot;]">Мединский объединил Александринский и Волковский театры</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:37
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Umer_Nodar_Mgaloblishvili_sygravshij_grafa_Kaliostro_v_Formule_lyubvi--466b78b6e9e81da457783bf78fb58f64?lr=213&amp;lang=ru&amp;stid=O1oVY6xwKsCKKjW9q1K7&amp;rubric=culture&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuZm9udGFua2EucnUvMjAxOS8wMy8yNy8wMTQv,-view=short,-alias=culture,-parentPos=9,84=88,1917=1671&quot;]">Умер Нодар Мгалоблишвили, сыгравший графа Калиостро в «Формуле любви»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          16:38
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Minoborony_sozdast_sobstvennuyu_armejskuyu_kinostudiyu--6443de3db7a75181e53dc12c81e92750?lr=213&amp;lang=ru&amp;stid=hHeNkeWZk2UH_ZiC9k7L&amp;rubric=culture&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cDovL3d3dy5kcC5ydS9hLzIwMTkvMDMvMjYvTWlub2Jvcm9uaV9zb3pkYXN0X3NvYnN0dg,-view=short,-alias=culture,-parentPos=9,84=89,1917=1671&quot;]">Минобороны создаст собственную армейскую киностудию</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:41
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_10" role="list" aria-labelledby="computers">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_computers i-bem" data-bem='{"link":{}}' tabindex="0" href="/computers.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=computers,84=95&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Технологии
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1881742/f634c045dede5413cc6e987c69cf20b9/256x140" alt="" width="256" height="140" style="background-color:#FFFFFF"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Huawei_otkryla_predzakazy_na_smartfony_P30_Lite--5b30bd7d5153fd116001258e999a7f64?lr=213&amp;lang=ru&amp;stid=pSSFOu9bC-01xDqVKDoS&amp;rubric=computers&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9pbmZvcmVhY3Rvci5ydS8yMjEyNDctaHVhd2VpLW90a3J5bGEtcHJlZHpha2F6eS1uYS1zbWFydGZvbnktcDMwLWxpdGU,-src=aHR0cDovL3d3dy5hc3RlcmEucnUvd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvREdMX3AzMF9saXRlX3ByXzFfNTE5NS5qcGc,-view=compact,-alias=computers,-parentPos=10,84=85,1917=1100&quot;]">Huawei открыла предзаказы на смартфоны P30 Lite</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:28
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_SSHA_mogut_zapretit_prodazhu_iPhone--a22cce5330be56d5693fe0e6dcfaed8d?lr=213&amp;lang=ru&amp;stid=bQ_8CoXn8y90PwKYraIU&amp;rubric=computers&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cDovL3d3dy5jbmV3cy5ydS9uZXdzL3RvcC8yMDE5LTAzLTI3X2FwcGxlX3phcHJldHlhdF9wcm9kYXZhdF9pcGhvbmVfdl9zc2hh,-view=short,-alias=computers,-parentPos=10,84=86,1917=1671&quot;]">В США могут запретить продажу iPhone</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:26
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Specsluzhby_poluchat_dostup_ko_vsem_ustrojstvam_interneta_veshhej_v_Rossii--9cc552dc5009d41082b34d03506063f5?lr=213&amp;lang=ru&amp;stid=TUeu-ji1uHODq-Qa1j2O&amp;rubric=computers&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9pbmZvMjQucnUvbmV3cy9zcGVjc2x1emhieS1wb2x1Y2hhdC1kb3N0dXAta28tdnNlbS11c3Ryb2pzdHZhbS1pbnRlcm5ldGEtdmVzaGhlai12LXJvc3NpaS5odG1s,-view=short,-alias=computers,-parentPos=10,84=87,1917=1671&quot;]">Спецслужбы получат доступ ко всем устройствам интернета вещей в России</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:49
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Wolfenstein_Youngblood_poluchila_syuzhetnyj_trejler_i_datu_reliza--834d927e33cf3e19e8958cdb5e8863ad?lr=213&amp;lang=ru&amp;stid=I2V_LVmdBHaj&amp;rubric=computers&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9nbWJveC5ydS9tYXRlcmlhbHMvNDAzNTctd29sZmVuc3RlaW4teW91bmdibG9vZC1wb2x1Y2hpbGEtc3l1emhldG5peS10cmV5bGVyLWktZGF0dS1yZWxpemE,-view=short,-alias=computers,-parentPos=10,84=88,1917=1671&quot;]">Wolfenstein: Youngblood получила сюжетный трейлер и дату релиза</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:40
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Electronic_Arts_zakryvaet_ofis_v_Rossii_i_uvolnyaet_350_sotrudnikov--30ab3742e65199e778a8a7d87e6c6940?lr=213&amp;lang=ru&amp;stid=8bY4M5hMRBm1ZTl03-tq&amp;rubric=computers&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9kbmkyNC5jb20vZXhjbHVzaXZlLzIxNDg3Ni1lbGVjdHJvbmljLWFydHMtemFrcnl2YWV0LW9maXMtdi1yb3NzaWktaS11dm9sbnlhZXQtMzUwLXNvdHJ1ZG5pa292Lmh0bWw,-view=short,-alias=computers,-parentPos=10,84=89,1917=1671&quot;]">Electronic Arts закрывает офис в России и увольняет 350 сотрудников</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          16:50
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_11" role="list" aria-labelledby="science">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_science i-bem" data-bem='{"link":{}}' tabindex="0" href="/science.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=science,84=96&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Наука
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/1629316/4e2ad97947e1de8eff1877b8cf5ef96e/256x140" alt="" width="256" height="140" style="background-color:#7F7751"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Dubne_zapustili_Fabriku_sverkhtyazhelykh_ehlementov--604ae93ad96bb9e8430a0a0d295025bc?lr=213&amp;lang=ru&amp;stid=tEbCLoa3hUH9ZC57FSSj&amp;rubric=science&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9ydW5ld3MyNC5ydS9zY2llbmNlLzI2LzAzLzIwMTkvYjQ1OTE1ODA2ODlmYWNkMmRhZjNiNWZmYWFmZDU0NTY,-src=aHR0cHM6Ly9zY2llbnRpZmljcnVzc2lhLnJ1L2RhdGEvYXV0by9tYXRlcmlhbC9nYWxsZXJ5L2JpZy00ZjdhMTQ3MS5qcGc,-view=compact,-alias=science,-parentPos=11,84=85,1917=1100&quot;]">В Дубне запустили «Фабрику сверхтяжелых элементов»</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          14:20
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/V_Rossii_pristupili_k_razrabotke_novogo_rechnogo_ehkranoplana--b5dc0c5d240b9658382f28caffe12f43?lr=213&amp;lang=ru&amp;stid=7BscsSp8qaXWb-3iztiX&amp;rubric=science&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cucG9wbWVjaC5ydS90ZWNobm9sb2dpZXMvbmV3cy00NzEzOTItdi1yb3NzaWktcHJpc3R1cGlsaS1rLXJhenJhYm90a2Utbm92b2dvLXJlY2hub2dvLWVrcmFub3BsYW5hLw,-view=short,-alias=science,-parentPos=11,84=86,1917=1671&quot;]">В России приступили к разработке нового речного экраноплана</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:34
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Na_Bolshom_adronnom_kollajdere_otkryli_tri_novykh_ehlementarnykh_chasticy--60af51d2b9162ae54ed605d6672de461?lr=213&amp;lang=ru&amp;stid=PqCXdn2mKGbJbVr5CxpQ&amp;rubric=science&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9mb3Jwb3N0LXN6LnJ1L2EvMjAxOS0wMy0yNy9uYS1ib2xzaG9tLWFuZHJvbm5vbS1rb2xsYWpkZXJlLW90a3J5bGktdHJpLW5vdnlraC1laGxlbWVudGFybnlraC1jaGFzdGljeQ,-view=short,-alias=science,-parentPos=11,84=87,1917=1671&quot;]">На Большом адронном коллайдере открыли три новых элементарных частицы</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          15:38
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Mozg_v_pervuyu_ochered_raspoznaet_pol_i_vozrast_neznakomogo_cheloveka--ed1a955bb9d45d8b0fd4dd8390c1083e?lr=213&amp;lang=ru&amp;stid=ijEzmEUOc4zUr2z86lW-&amp;rubric=science&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9kaXNjb3ZlcjI0LnJ1LzIwMTkvMDMvbW96Zy12LXBlcnZ1eXUtb2NoZXJlZC1yYXNwb3puYWV0LXBvbC1pLXZvenJhc3QtbmV6bmFrb21vZ28tY2hlbG92ZWthLw,-view=short,-alias=science,-parentPos=11,84=88,1917=1671&quot;]">Мозг в первую очередь распознает пол и возраст незнакомого человека</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          15:47
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Genetiki_sozdali_molekulu_ochishhayushhuyu_organizm_ot_spyashhego_VICH--3bdf54dc7d356fa45c331e01d9045130?lr=213&amp;lang=ru&amp;stid=xBHdbH1VAKFcf5hyXXpg&amp;rubric=science&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9yaWEucnUvMjAxOTAzMjUvMTU1MjA5NjU1OS5odG1s,-view=short,-alias=science,-parentPos=11,84=89,1917=1671&quot;]">Генетики создали молекулу, очищающую организм от «спящего» ВИЧ</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено 
+                                          вчера в 13:12
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_middle">
+                     <div class="stories-set stories-set_main_no stories-set_pos_last" role="list" aria-labelledby="auto">
+                        <a class="link link_theme_normal rubric-label rubric-label_top_auto i-bem" data-bem='{"link":{}}' tabindex="0" href="/auto.html" data-counter="[&quot;321.16.1104.3253&quot;,&quot;-alias=auto,84=97&quot;]">
+                           <div class="rubric-label__dot"></div>
+                           Авто
+                        </a>
+                        <table class="stories-set__items">
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item" rowspan="2">
+                                 <div class="story story_view_compact story_notags">
+                                    <div class="story__topic">
+                                       <div class="story__image" role="presentation">
+                                          <div class="story__image-container"><img class="image" src="https://avatars.mds.yandex.net/get-ynews/31028/b245ba67e3c2fe839a33cb9877deff1b/256x140" alt="" width="256" height="140" style="background-color:#957479"></div>
+                                       </div>
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Pod_markoj_Aurus_vypustyat_paradnyj_kabriolet--1c0b82c2289a670cf9a1732ca7b9cac8?lr=213&amp;lang=ru&amp;stid=RzK4geGjNCMxOqBRkQia&amp;rubric=auto&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly9tb3Rvci5ydS9uZXdzL2F1cnVzLWNhYnJpby0yNy0wMy0yMDE5Lmh0bQ,-src=aHR0cHM6Ly9zcGVlZG1lLnJ1L3VwbG9hZHMvaW1hZ2VzLzIwMTkvMDMvMjcvcGhvdG9fMS5qcGc,-view=compact,-alias=auto,-parentPos=12,84=85,1917=1100&quot;]">Под маркой Aurus выпустят парадный кабриолет</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:47
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Hyundai_podgotovil_k_premere_samyj_malenkij_krossover--f936afb1eb6176db8411e03bb5f0180a?lr=213&amp;lang=ru&amp;stid=fBsosqSHQl_tie7cJqCz&amp;rubric=auto&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuYXZ0b3Z6Z2x5YWQucnUvYXZ0by9rcm9zc292ZXJ5LzIwMTktMDMtMjctaHl1bmRhaS1nb3Rvdml0LWstcHJlbWVyZS1zdm9qLXNhbXlqLWtvbXBha3RueWota3Jvc3NvdmVyLw,-view=short,-alias=auto,-parentPos=12,84=86,1917=1671&quot;]">Hyundai подготовил к премьере самый маленький кроссовер</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          16:34
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Genesis_podnyal_ceny_na_avtomobili_2019_goda--f40769b5a0aea81f39d2c143d1e2cbb7?lr=213&amp;lang=ru&amp;stid=JOJneLhBJvXEl2WW0hZl&amp;rubric=auto&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly93d3cuYXV0b3N0YXQucnUvbmV3cy8zODU0MC8,-view=short,-alias=auto,-parentPos=12,84=87,1917=1671&quot;]">Genesis поднял цены на автомобили 2019 года</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:38
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr class="stories-set__items-group">
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/Predstavlen_zaryazhennyj_sedan_Mercedes-AMG_A35--0c1adb2923874b5bc9d248e6431e5917?lr=213&amp;lang=ru&amp;stid=g7K6tdhzDoClZM97zPN-&amp;rubric=auto&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cDovL3R2b2UtYXZ0by5jb20vMTg0ODA2LXByZWRzdGF2bGVuLXphcnlhemhlbm55ai1zZWRhbi1tZXJjZWRlcy1hbWctYTM1Lmh0bWw,-view=short,-alias=auto,-parentPos=12,84=88,1917=1671&quot;]">Представлен «заряженный» седан Mercedes-AMG A35</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:26
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                              <td class="stories-set__item">
+                                 <div class="story story_view_short story_notags">
+                                    <div class="story__topic">
+                                       <h2 class="story__title"><a class="link link_theme_black i-bem" data-bem='{"link":{}}' tabindex="0" href="/story/FT_Renault_rassmatrivaet_vozmozhnost_sliyaniya_s_Fiat_Chrysler--8047e7e70e087ac4c1efb245395ce4db?lr=213&amp;lang=ru&amp;stid=AM4bGZS9DD38hqBHdSE4&amp;rubric=auto&amp;from=index" data-counter="[&quot;321.16.1104&quot;,&quot;-cl4url=aHR0cHM6Ly90YXNzLnJ1L2Vrb25vbWlrYS82MjYyODQx,-view=short,-alias=auto,-parentPos=12,84=89,1917=1671&quot;]">FT: Renault рассматривает возможность слияния с Fiat Chrysler</a></h2>
+                                    </div>
+                                    <div class="story__info">
+                                       <div class="story__date">Обновлено в 
+                                          17:33
+                                       </div>
+                                    </div>
+                                 </div>
+                              </td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div class="page-content__cell">
+                  <div class="page-content__fixed page-content__fixed_footer-proffit">
+                     <div class="proffit proffit_layout_footer proffit_name_footer proffit_hideneded" role="complementary" aria-label="Реклама"></div>
+                  </div>
+               </div>
+            </div>
+            <div class="rubber__cell rubber__cell_footer">
+               <div class="footer clearfix rubber__fixed" role="contentinfo">
+                  <div class="footer__column footer__column_pos_first">
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_info4smi i-bem" data-bem='{"link":{}}' tabindex="0" href="//yandex.ru/support/news/info-for-mass-media.xml">Информация для СМИ</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_smi i-bem" data-bem='{"link":{}}' tabindex="0" href="/smi">База данных СМИ</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_agreement i-bem" data-bem='{"link":{}}' tabindex="0" href="//yandex.ru/legal/news_termsofuse/">Пользовательское соглашение</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_mobile mobile__link i-bem" data-bem='{"link":{}}' name="mobile" tabindex="0" href="https://m.news.yandex.ru/?mar=1">Мобильная версия</a></div>
+                  </div>
+                  <div class="footer__column">
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_subscribe i-bem" data-bem='{"link":{}}' tabindex="0" href="/podpiska/login.pl">Подписка на новости</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_export i-bem" data-bem='{"link":{}}' tabindex="0" href="/export.html">Новости на вашем сайте</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_advert i-bem" data-bem='{"link":{}}' tabindex="0" href="//yandex.ru/adv/">Реклама</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_stat i-bem" data-bem='{"link":{}}' tabindex="0" href="//stat.yandex.ru/Russia/News">Статистика</a></div>
+                  </div>
+                  <div class="footer__column footer__column_pos_last">
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_feedback i-bem" data-bem='{"link":{}}' tabindex="0" href="//yandex.ru/support/news/troubleshooting/feedback.xml">Обратная связь</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_stat-news i-bem" data-bem='{"link":{}}' tabindex="0" href="/top.html">Топ-5 новостных сюжетов: статистика</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_help i-bem" data-bem='{"link":{}}' tabindex="0" href="//yandex.ru/support/news/">Помощь</a></div>
+                     <div class="footer__item"><a class="link link_theme_normal footer__link footer__link_name_howitworks i-bem" data-bem='{"link":{}}' tabindex="0" href="/howitworks">Как работают Яндекс.Новости</a></div>
+                     <div class="footer__item">
+                        <div class="copyright">© <span class="copyright__dates">2001–2019</span>  ООО «<a class="copyright__link footer__link" href="https://yandex.ru">ЯНДЕКС</a>»</div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="rubber__col rubber__col_right"></div>
+      </div>
+      <div class="settings i-bem" data-bem='{"settings":{"langs":null}}'>
+         <div class="settings__window">
+            <div class="settings__saved">Сохранено</div>
+            <div class="settings__fake-paranja"></div>
+            <div class="settings__window-table">
+               <div class="settings__window-cell">
+                  <div class="settings__window-content">
+                     <div class="settings__close" title="Закрыть" data-counter="[&quot;175.1137.445&quot;,null]"></div>
+                     <div class="spin2 spin2_size_m spin2_view_default spin2_tone_default settings__spin"></div>
+                     <div class="settings__error-loading">Ошибка загрузки настроек.</div>
+                     <div class="settings__container">
+                        <div class="settings__need-auth">
+                           <div class="settings__need-auth-description">Для доступа ко всем настройкам введите логин и пароль на Яндексе или зарегистрируйтесь.</div>
+                           <div class="settings__need-auth-action" data-counter="[&quot;175.1137.290&quot;,null]"><button class="button2 button2_size_m button2_theme_action button2_view_classic i-bem" data-bem='{"button2":{}}' type="button" autocomplete="off" tabindex="0"><span class="button2__text">Продолжить</span></button></div>
+                        </div>
+                        <div class="settings__group settings__group_need-auth settings__group_type_favorite">
+                           <div class="settings__title">Мои источники</div>
+                           <div class="settings__description">Добавьте издания, материалы которых вы хотите видеть в первую очередь:</div>
+                           <div class="settings__favorite-sources">
+                              <div class="settings-tags settings-tags_short i-bem" data-bem='{"settings-tags":{"typeSource":"favorite","counters":{"add":["175.1137.1500.160",null],"remove":["175.1137.1500.2452",null],"more":["175.1137.1500.75",null]}}}'>
+                                 <div class="popup2 popup2_target_anchor popup2_hiding_yes popup2_autoclosable_no popup2_view_classic popup2_theme_normal tooltip tooltip_size_s tooltip_theme_error tooltip_view_classic settings-tags__tooltip i-bem" data-bem='{"popup2":{"directions":["bottom-center"]}}'>
+                                    <div class="tooltip__backdrop">
+                                       <div class="popup2__tail"></div>
+                                    </div>
+                                    <div class="tooltip__content"></div>
+                                 </div>
+                                 <button class="button2 button2_disabled_yes button2_theme_action button2_size_m button2_view_classic settings-tags__add-source i-bem" data-bem='{"button2":{"_tabindex":"0"}}' type="button" autocomplete="off" disabled aria-disabled="true"><span class="button2__text">Добавить источник</span></button>
+                                 <div class="settings-tags__input-source">
+                                    <div class="settings-tags__input-source-left"><span class="input input_settings-suggest input_size_m input_theme_normal i-bem" data-bem='{"input":{"dataprovider":{"name":"input__settings-dataprovider","url":"//suggest.yandex.ru/suggest-news-sources?callback=?","version":3},"popupMixs":[{"block":"settings-tags","elem":"popup"}],"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq1553698052892311" name="" aria-labelledby="labeluniq1553698052892311 hintuniq1553698052892311" autocomplete="off"></span></span></div>
+                                    <div class="settings-tags__input-source-right"><button class="button2 button2_theme_action button2_size_m button2_pin_clear-round button2_view_classic settings-tags__add i-bem" data-bem='{"button2":{}}' type="button" autocomplete="off" tabindex="0"><span class="button2__text">Добавить</span></button></div>
+                                 </div>
+                                 <div class="settings-tags__tags"></div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="settings__group settings__group_need-auth settings__group_type_ignore">
+                           <div class="settings__title">Нежелательные источники</div>
+                           <div class="settings__description">Вы будете реже видеть материалы изданий из этого списка:</div>
+                           <div class="settings__ignore-sources">
+                              <div class="settings-tags settings-tags_short i-bem" data-bem='{"settings-tags":{"typeSource":"ignore","counters":{"add":["175.1137.201.160",null],"remove":["175.1137.201.2452",null],"more":["175.1137.201.75",null]}}}'>
+                                 <div class="popup2 popup2_target_anchor popup2_hiding_yes popup2_autoclosable_no popup2_view_classic popup2_theme_normal tooltip tooltip_size_s tooltip_theme_error tooltip_view_classic settings-tags__tooltip i-bem" data-bem='{"popup2":{"directions":["bottom-center"]}}'>
+                                    <div class="tooltip__backdrop">
+                                       <div class="popup2__tail"></div>
+                                    </div>
+                                    <div class="tooltip__content"></div>
+                                 </div>
+                                 <button class="button2 button2_disabled_yes button2_theme_action button2_size_m button2_view_classic settings-tags__add-source i-bem" data-bem='{"button2":{"_tabindex":"0"}}' type="button" autocomplete="off" disabled aria-disabled="true"><span class="button2__text">Добавить источник</span></button>
+                                 <div class="settings-tags__input-source">
+                                    <div class="settings-tags__input-source-left"><span class="input input_settings-suggest input_size_m input_theme_normal i-bem" data-bem='{"input":{"dataprovider":{"name":"input__settings-dataprovider","url":"//suggest.yandex.ru/suggest-news-sources?callback=?","version":3},"popupMixs":[{"block":"settings-tags","elem":"popup"}],"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq1553698052892312" name="" aria-labelledby="labeluniq1553698052892312 hintuniq1553698052892312" autocomplete="off"></span></span></div>
+                                    <div class="settings-tags__input-source-right"><button class="button2 button2_theme_action button2_size_m button2_pin_clear-round button2_view_classic settings-tags__add i-bem" data-bem='{"button2":{}}' type="button" autocomplete="off" tabindex="0"><span class="button2__text">Добавить</span></button></div>
+                                 </div>
+                                 <div class="settings-tags__tags"></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="paranja paranja_no-scroll paranja_state_close paranja_theme_normal settings__paranja"></div>
+      </div>
+      <div class="daas2 i-bem" data-bem='{"daas2":{}}' id="daas2"></div>
+      <script src="https://yastatic.net/jquery/2.2.3/jquery.min.js" data-rcid="2104" crossorigin="anonymous"></script><script src="//yastatic.net/s3/nerpa-static/_/LY_L8uw--n4vAqLx6nyGq-kBLkY.js" data-rcid="2095" crossorigin="anonymous"></script><script nonce="Pmv7FaHFRlwGW5XCHQTPmA">if(typeof BEM!=='undefined'){BEM.DOM.decl({block:"widget",modName:"for",modVal:"teaser"},{onSetMod:{js:function(){this.bindTo("close","pointerclick",this._onClose).bindTo("content","pointerclick",this._setCookie)}},_onClose:function(e){e.preventDefault(),this._setCookie(),this.destruct()},_setCookie:function(){var e=window.yaCounter722818;e&&e.reachGoal("teaser.click"),$.cookie(this.params.teaserHide,1,{path:"/",domain:location.hostname,secure:!0,expires:3650}),$.cookie(this.params.teaserCount,0,{path:"/",domain:location.hostname,expires:-1})}});BEM.DOM.decl({block:"suggest2",modName:"search-input",modVal:!0},{OPENED_SEARCH_WIDTH:460});}</script><i class="b-statcounter"><i style="background: url(//www.tns-counter.ru/V13a****yandex_ru/ru/UTF-8/tmsec=yandex_news/767862779)"></i></i>
+      <noscript><img alt="" src="//mc.yandex.ru/watch/722818"></noscript>
+   </body>
+</html>

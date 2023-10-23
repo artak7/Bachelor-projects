@@ -1,0 +1,7 @@
+0. import.io 09-715@mail.ru 1..6
+1. IDE (R, RStudio) (установленные пакеты)
+	1.1 Text Editor (Sublime), Table Editor (Microsoft Excel)
+2. Administrator (Root) rights
+3. DBMS (СУБД MS SQL Server (2014) 
+4. VPN Proton 09715 1..6
+	4.1 Обход Proxy ?
